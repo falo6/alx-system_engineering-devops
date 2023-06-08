@@ -1,3 +1,2 @@
 #!/bin/bash
-This is shell basic
-
+This is shell 
